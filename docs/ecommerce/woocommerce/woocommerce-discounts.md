@@ -10,9 +10,9 @@ Para aplicar descontos por método de pagamento Pix em sua loja Woocommerce, sig
 
 ## 1 - Instale o plugin WooCommerce Discounts Per Payment Method
 
-O primeiro passo é instalar o plugin [WooCommerce Discounts Per Payment Method](https://br.wordpress.org/plugins/woo-payment-discounts/) em sua loja Woocommerce. Esse plugin é responsável por adicionar a opção de desconto por método de pagamento em sua loja.
+O primeiro passo é instalar o plugin [Payment Method Discounts](https://br.wordpress.org/plugins/payment-method-discounts/) em sua loja Woocommerce. Esse plugin é responsável por adicionar a opção de desconto por método de pagamento em sua loja.
 
-<img width="974" alt="image" src="https://user-images.githubusercontent.com/67057187/226738836-31bf9083-dbcd-4110-a7be-55e44b997d30.png" />
+<img width="974" alt="image" src="https://i.imgur.com/YWq75W5.png" />
 
 ## 2 - No menu Woocommerce, selecione a opção: Desconto por Método de Pagamento
 
